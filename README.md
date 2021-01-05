@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+이것저것 관심많은 초보 개발자입니다. 😄
+
+
 <!--
 **BaeKwangho/BaeKwangho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
