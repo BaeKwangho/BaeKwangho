@@ -1,7 +1,6 @@
-## <a href="https://baekwangho.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white"/></a>
 
-이것저것 관심많은 초보 개발자입니다. 😄
-
+## 이것저것 관심많은 초보 개발자입니다. 😄
+<a href="https://baekwangho.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white"/></a>
 ## Techs that i've used at least once
 - **ML/DL** 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
@@ -26,4 +25,15 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/ReactNative-09D3AC?style=flat-square&logo=Create React App&logoColor=white"/></a>
 
+- **Basic** 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baekwangho&show_icons=true&theme=default)
+
+
+## Contact
+
+
+<a href="mailto:qorhkdgh00@gmail.com"><img src="https://img.shields.io/badge/qorhkdgh00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
